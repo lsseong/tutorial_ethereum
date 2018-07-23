@@ -24,5 +24,5 @@ Merkle-Patricia trie
 ## Ecommerce Website
 
 ## Appendix - Development Tools
-### Truffle 
-Truffle is a development environment, testing framework and asset pipeline for Ethereum
+Truffle - a development environment, testing framework and asset pipeline for Ethereum
+MetaMask - an Ethereum Browser
