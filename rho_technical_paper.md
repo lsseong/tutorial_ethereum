@@ -7,7 +7,7 @@
 ## Writing a Smart Contract in Solidity
 ### ERC20 standard
 ### Contract, transacton and blockchain
-### Memory and storage model
+### EVM Memory and storage model
 Merkle-Patricia trie
 ### Messaging flow and content
 ### Core functions and modifiers
