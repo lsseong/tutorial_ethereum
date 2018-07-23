@@ -1,6 +1,6 @@
 
 ## The Ethereum Platform
-### Geth
+### Geth and Parity nodes
 ### web3.js
 
 ## Writing a Smart Contract in Solidity
