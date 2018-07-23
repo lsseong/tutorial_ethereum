@@ -5,6 +5,7 @@
 ### Main and testing networks
 
 ## Writing a Smart Contract in Solidity
+### ERC20 standard
 ### Contract, transacton and blockchain
 ### Memory and storage model
 Merkle-Patricia trie
