@@ -3,6 +3,7 @@
 
 ## Writing a Smart Contract in Solidity
 ### Memory and storage model
+### Messaging flow and content
 
 ## Service model
 ### Service and payment model
