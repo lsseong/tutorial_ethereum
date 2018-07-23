@@ -4,6 +4,7 @@
 
 ## Writing a Smart Contract in Solidity
 ### Memory and storage model
+Merkle-Patricia trie
 ### Messaging flow and content
 ### Core functions and modifiers
 ### Testing strategy
