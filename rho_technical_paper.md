@@ -4,6 +4,7 @@
 ### web3.js
 
 ## Writing a Smart Contract in Solidity
+### Contract, transacton and blockchain
 ### Memory and storage model
 Merkle-Patricia trie
 ### Messaging flow and content
