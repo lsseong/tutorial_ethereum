@@ -1,7 +1,7 @@
 
 ## The Ethereum Platform
 ### Geth and Parity nodes
-### web3.js
+### web3.js - An Ethereum compatible JavaScript API
 ### Main and testing networks
 
 ## Writing a Smart Contract in Solidity
