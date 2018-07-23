@@ -4,7 +4,7 @@
 ## Writing a Smart Contract in Solidity
 ### Memory and storage model
 ### Messaging flow and content
-### Core functions
+### Core functions and modifiers
 
 ## Service model
 ### Service and payment model
