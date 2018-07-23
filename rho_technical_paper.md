@@ -1,6 +1,7 @@
 
 ## The Ethereum Platform
 ### Geth
+### web3.js
 
 ## Writing a Smart Contract in Solidity
 ### Memory and storage model
