@@ -2,6 +2,7 @@
 ## The Ethereum Platform
 ### Geth and Parity nodes
 ### web3.js
+### Main and testing networks
 
 ## Writing a Smart Contract in Solidity
 ### Contract, transacton and blockchain
