@@ -14,6 +14,8 @@ Radix and Patricia Tries - https://cs.stackexchange.com/questions/63048/what-is-
 
 Merkle-Patricia-trie - https://ethereum.stackexchange.com/questions/6415/eli5-how-does-a-merkle-patricia-trie-tree-work
 
+Radix-Merkle trie - https://medium.com/coinmonks/data-structure-in-ethereum-episode-2-radix-trie-and-merkle-trie-d941d0bfd69a
+
 Modified Merkle Patricia Trie (used by Ethereum) 
 - https://github.com/ethereum/wiki/wiki/Patricia-Tree
 - https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/
