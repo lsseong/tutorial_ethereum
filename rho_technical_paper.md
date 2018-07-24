@@ -7,6 +7,8 @@
 ## Writing a Smart Contract in Solidity
 ### Contract, transacton and blockchain
 ### ERC20 token API
+The ERC20 is a technical specification that a new token on the platform implements. The implication here is wallets that support Ether (ETH) are also able to support all the ICO tokens that are ERC20-compliant. This explains why it is possible to create a system for a token exchange involving as many tokens as possible.
+
 ### EVM Memory and storage model
 Merkle-Patricia trie
 ### Messaging flow and content
