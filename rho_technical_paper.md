@@ -5,7 +5,7 @@
 ### Main and testing networks
 
 ## Writing a Smart Contract in Solidity
-### ERC20 standard
+### ERC20 standard as token API
 ### Contract, transacton and blockchain
 ### EVM Memory and storage model
 Merkle-Patricia trie
