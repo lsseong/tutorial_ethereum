@@ -14,3 +14,5 @@ Merkle-Patricia-trie - https://ethereum.stackexchange.com/questions/6415/eli5-ho
 
 Modified Merkle Patricia Trie (used by Ethereum) - https://github.com/ethereum/wiki/wiki/Patricia-Tree
 
+### The Yellow Paper
+https://ethereum.github.io/yellowpaper/paper.pdf
