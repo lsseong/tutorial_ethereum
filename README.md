@@ -12,7 +12,9 @@ Radix and Patricia Tries - https://cs.stackexchange.com/questions/63048/what-is-
 
 Merkle-Patricia-trie - https://ethereum.stackexchange.com/questions/6415/eli5-how-does-a-merkle-patricia-trie-tree-work
 
-Modified Merkle Patricia Trie (used by Ethereum) - https://github.com/ethereum/wiki/wiki/Patricia-Tree
+Modified Merkle Patricia Trie (used by Ethereum) 
+- https://github.com/ethereum/wiki/wiki/Patricia-Tree
+- https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/
 
 ### The Yellow Paper
 https://ethereum.github.io/yellowpaper/paper.pdf
