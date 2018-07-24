@@ -10,6 +10,12 @@ https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f
 https://medium.com/coinmonks/data-structure-in-ethereum-episode-1-recursive-length-prefix-rlp-encoding-decoding-d1016832f919
 
 ### Trie
+
+Radix - a tree structure to lookup value by path
+Patricia - a radix tree with 2 child nodes
+Merkle - a tree structure where node value is a hash of child nodes
+Patricia - a mixture of radix and merkle tries (used in Etherium)
+
 Radix and Patricia Tries - https://cs.stackexchange.com/questions/63048/what-is-the-difference-between-radix-trees-and-patricia-tries/63060#63060
 
 Merkle-Patricia-trie - https://ethereum.stackexchange.com/questions/6415/eli5-how-does-a-merkle-patricia-trie-tree-work
