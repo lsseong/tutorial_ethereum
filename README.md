@@ -19,6 +19,7 @@ Radix-Merkle trie - https://medium.com/coinmonks/data-structure-in-ethereum-epis
 Modified Merkle Patricia Trie (used by Ethereum) 
 - https://github.com/ethereum/wiki/wiki/Patricia-Tree
 - https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/
+- https://medium.com/coinmonks/data-structure-in-ethereum-episode-3-patricia-trie-b7b0ccddd32f
 
 ### The Yellow Paper
 https://ethereum.github.io/yellowpaper/paper.pdf
