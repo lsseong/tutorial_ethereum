@@ -1,6 +1,6 @@
 # tutorial_ethereum
 
-### Create an account
+### Create an account and the keystore file
 https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
 
 ### Transaction Lifecycle
@@ -30,5 +30,4 @@ Modified Merkle Patricia Trie (used by Ethereum)
 ### The Yellow Paper
 https://ethereum.github.io/yellowpaper/paper.pdf
 
-### Account creation and keystore file
-https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
+
