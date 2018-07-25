@@ -23,6 +23,8 @@ Merkle-Patricia trie
 ### Network security
 ### Private keys security
 Ethereum keystore file and integration with a HSM (hardware security module) solution.
+### Private chain and proof-of-work
+
 
 ## Cyrto Wallet
 
