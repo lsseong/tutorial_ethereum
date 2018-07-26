@@ -14,6 +14,8 @@ With official Ethereum Wallet (EW) you are running a full node, downloading bloc
 
 Mist is: EW + web browser + dApp interface
 
+Parity is an alternative well-respected user friendly wallet: https://parity.io/
+
 https://github.com/ethereum/meteor-dapp-wallet
 https://ethereum.stackexchange.com/questions/212/whats-the-difference-between-accounts-and-wallets-in-mist
 https://www.quora.com/What-is-the-difference-between-smart-contracts-and-dapps
