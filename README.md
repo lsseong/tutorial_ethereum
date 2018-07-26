@@ -13,6 +13,7 @@ Ethereum-Wallet = a wallet interface (browser functionality removed for safety)
 
 https://bitfalls.com/2018/02/12/explaining-ethereum-tools-geth-mist/
 
+Parity is another implementation of an Ethereum node: https://parity.io/
 
 ### Create an account and the keystore file
 https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
@@ -22,10 +23,6 @@ https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
 dApp is a blockchain enabled website or portal, and smart contract connects dApp with blockchain
 
 With official Ethereum Wallet (EW) you are running a full node, downloading blockchain and syncing it. With myetherwallet (MEW) there is no such need, it's just a wallet and interface to the blockchain.
-
-Mist is: EW + web browser + dApp interface
-
-Parity is an alternative well-respected user friendly wallet: https://parity.io/
 
 https://github.com/ethereum/meteor-dapp-wallet
 https://ethereum.stackexchange.com/questions/212/whats-the-difference-between-accounts-and-wallets-in-mist
