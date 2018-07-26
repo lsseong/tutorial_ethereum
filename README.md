@@ -71,7 +71,7 @@ Events, logs, and event logs are usually Ethereum terms that are interchangeable
 
 Events/logs are the result of LOG opcodes being executed in the EVM. They are a part of "internal transactions" which are derived by executing transaction data through the EVM.
 
-Logs are part of the transaction receipts.
+Logs are stored as an array in a transaction receipt that has the following data structure:
 
 ```
 blockHash: String, 32 Bytes - hash of the block where this transaction was in.
