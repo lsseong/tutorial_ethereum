@@ -60,5 +60,6 @@ https://ethereum.github.io/yellowpaper/paper.pdf
 ### Security
 https://www.ledger.fr/2016/08/08/how-to-properly-secure-cryptocurrencies-exchanges/
 
-### msg.value
-msg.value is automatically set to the amount of ether sent with that payable function
+### msg.value and this.balance
+msg.value is the amount of ETH sent to a payable public method in a contract.
+this.balance is the amount of ETH stored in the contract.
