@@ -36,7 +36,7 @@ https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f
 ### Recursive Length Prefix (RLP) Encoding/Decoding
 https://medium.com/coinmonks/data-structure-in-ethereum-episode-1-recursive-length-prefix-rlp-encoding-decoding-d1016832f919
 
-### Trie
+### Trie - data structure to hold transaction and hashing
 
 Radix - a tree structure to lookup value by path
 Patricia - a radix tree with 2 child nodes
