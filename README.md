@@ -65,3 +65,23 @@ https://www.ledger.fr/2016/08/08/how-to-properly-secure-cryptocurrencies-exchang
 - this.balance is the amount of ETH stored in the contract.
 
 The value of this.balance in payable methods is increased by msg.value before the body of your payable method executes. If your contract has a starting balance of 1 and you pass in a msg.value of 2, the payable method will already have a this.balance of 3 when it executes.
+
+### Events, logs and transaction receipts
+Events, logs, and event logs are usually Ethereum terms that are interchangeable (in some contexts a particular term is favored, for example events in Solidity and web3.js, and logs as in the EVM and Yellow Paper).
+
+Events/logs are the result of LOG opcodes being executed in the EVM. They are a part of "internal transactions" which are derived by executing transaction data through the EVM.
+
+Logs are part of the transaction receipts.
+
+```
+blockHash: String, 32 Bytes - hash of the block where this transaction was in.
+blockNumber: Number - block number where this transaction was in.
+transactionHash: String, 32 Bytes - hash of the transaction.
+transactionIndex: Number - integer of the transactions index position in the block.
+from: String, 20 Bytes - address of the sender.
+to: String, 20 Bytes - address of the receiver. null when its a contract creation transaction.
+cumulativeGasUsed: Number - The total amount of gas used when this transaction was executed in the block.
+gasUsed: Number - The amount of gas used by this specific transaction alone.
+contractAddress: String - 20 Bytes - The contract address created, if the transaction was a contract creation, otherwise null.
+logs: Array - Array of log objects, which this transaction generated.
+```
