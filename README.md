@@ -33,4 +33,5 @@ Modified Merkle Patricia Trie (used by Ethereum)
 ### The Yellow Paper
 https://ethereum.github.io/yellowpaper/paper.pdf
 
-
+### Security
+https://www.ledger.fr/2016/08/08/how-to-properly-secure-cryptocurrencies-exchanges/
