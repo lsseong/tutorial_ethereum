@@ -8,6 +8,8 @@ https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
 
 ### Wallet - a smart contract, DApp
 
+ dApp is a blockchain enabled website or portal, and smart contract connects dApp with blockchain
+
 https://github.com/ethereum/meteor-dapp-wallet
 https://ethereum.stackexchange.com/questions/212/whats-the-difference-between-accounts-and-wallets-in-mist
 https://www.quora.com/What-is-the-difference-between-smart-contracts-and-dapps
