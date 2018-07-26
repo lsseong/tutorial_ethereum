@@ -54,6 +54,10 @@ Modified Merkle Patricia Trie (used by Ethereum)
 - https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/
 - https://medium.com/coinmonks/data-structure-in-ethereum-episode-3-patricia-trie-b7b0ccddd32f
 
+### A block architecture using Merkle Patricia Trie
+
+https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture/6413#6413
+
 ### The Yellow Paper
 https://ethereum.github.io/yellowpaper/paper.pdf
 
