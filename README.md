@@ -60,4 +60,5 @@ https://ethereum.github.io/yellowpaper/paper.pdf
 ### Security
 https://www.ledger.fr/2016/08/08/how-to-properly-secure-cryptocurrencies-exchanges/
 
-
+### msg.value
+msg.value is automatically set to the amount of ether sent with that payable function
