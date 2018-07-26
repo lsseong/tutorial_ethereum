@@ -6,6 +6,9 @@ https://github.com/ethereum/wiki/wiki
 ### Create an account and the keystore file
 https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
 
+### Wallet - a smart contract
+https://ethereum.stackexchange.com/questions/212/whats-the-difference-between-accounts-and-wallets-in-mist
+
 ### Transaction Lifecycle
 https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e
 
