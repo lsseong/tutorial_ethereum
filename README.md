@@ -7,6 +7,10 @@ https://github.com/ethereum/wiki/wiki
 Geth (Go Ethereum) is an implementation of an Ethereum node in the Go programming language. It has a command line interface.
 Mist is a (UI) program which connects to Geth in the background, and also serves as an interface for the wallet. You do not need to run Geth. Mist will run it for you invisibly.
 
+MIST has two versions for download [https://github.com/ethereum/mist/releases]
+Mist-installer = a web for Ethereum browser, a wallet interface
+Ethereum-Wallet = a wallet interface (browser functionality removed for safety)
+
 https://bitfalls.com/2018/02/12/explaining-ethereum-tools-geth-mist/
 
 
