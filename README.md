@@ -89,3 +89,6 @@ gasUsed: Number - The amount of gas used by this specific transaction alone.
 contractAddress: String - 20 Bytes - The contract address created, if the transaction was a contract creation, otherwise null.
 logs: Array - Array of log objects, which this transaction generated.
 ```
+
+### Escrow contract
+https://medium.com/@s_van_laar/how-to-build-an-escrow-contract-with-an-ethereum-erc20-token-bfc4825b0dd7
