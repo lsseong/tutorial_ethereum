@@ -95,5 +95,8 @@ contractAddress: String - 20 Bytes - The contract address created, if the transa
 logs: Array - Array of log objects, which this transaction generated.
 ```
 
+### Events and logs listener
+https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e
+
 ### Escrow contract
 https://medium.com/@s_van_laar/how-to-build-an-escrow-contract-with-an-ethereum-erc20-token-bfc4825b0dd7
