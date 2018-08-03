@@ -15,6 +15,12 @@ https://bitfalls.com/2018/02/12/explaining-ethereum-tools-geth-mist/
 
 Parity is another implementation of an Ethereum node: https://parity.io/
 
+### QuikNode
+Installing a full node (Geth or Parity) takes days and plenty space to download the full chain and a bit of processing (cpu) power to keep it in sync with the global network and allow it to do its duties.
+
+There is, however, a solution: QuikNode. One can go to QuikNode.io, spin up a private Ethereum node, and use it with MEW — all in under 10 minutes (more like 5). https://quiknode.io/faq
+
+
 ### Create an account and the keystore file
 https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
 
