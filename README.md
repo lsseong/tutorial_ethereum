@@ -30,11 +30,11 @@ https://www.quora.com/What-is-the-difference-between-smart-contracts-and-dapps
 
 These wallets have been verified to support Ethereum ERC20 tokens:
 
-MyEtherWallet (MEW, Online and local browser) - https://www.myetherwallet.com/. Use Node.js crypto module to generate keys on local machine. The online part is for sending transaction to ethereum nodes through their public infrastructure using secured TLS.
-MetaMask (Firefox and Chrome browser extension) - https://metamask.io/. Stores private keys in the browser local data store.
-MIST (Desktop) - https://ethereum.stackexchange.com/questions/2690/what-is-the-relationship-between-mist-and-ethereum-wallet
-Parity (Desktop) 
-Jaxx (iPhone and Android)
+ - MyEtherWallet (MEW, Online and local browser) - https://www.myetherwallet.com/. Use Node.js crypto module to generate keys on local machine. The online part is for sending transaction to ethereum nodes through their public infrastructure using secured TLS.
+ - MetaMask (Firefox and Chrome browser extension) - https://metamask.io/. Stores private keys in the browser local data store.
+ - MIST (Desktop) - https://ethereum.stackexchange.com/questions/2690/what-is-the-relationship-between-mist-and-ethereum-wallet
+ - Parity (Desktop) 
+ - Jaxx (iPhone and Android)
 
 More here https://tokenmarket.net/what-is/how-to-participate-ethereum-token-crowdsale/
 
