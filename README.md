@@ -28,13 +28,16 @@ https://github.com/ethereum/meteor-dapp-wallet
 https://ethereum.stackexchange.com/questions/212/whats-the-difference-between-accounts-and-wallets-in-mist
 https://www.quora.com/What-is-the-difference-between-smart-contracts-and-dapps
 
-These wallets have been verified to support Ethereum ERC20 tokens
+These wallets have been verified to support Ethereum ERC20 tokens:
 
 MyEtherWallet (Online and local browser) - https://www.myetherwallet.com/
 MetaMask (Firefox and Chrome browser extension) - https://metamask.io/
 MIST (Desktop) - https://ethereum.stackexchange.com/questions/2690/what-is-the-relationship-between-mist-and-ethereum-wallet
 Parity (Desktop) 
 Jaxx (iPhone and Android)
+
+More here https://tokenmarket.net/what-is/how-to-participate-ethereum-token-crowdsale/
+
 
 ### Transaction Lifecycle
 https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e
