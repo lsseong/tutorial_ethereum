@@ -117,3 +117,6 @@ https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereu
 
 ### Escrow contract
 https://medium.com/@s_van_laar/how-to-build-an-escrow-contract-with-an-ethereum-erc20-token-bfc4825b0dd7
+
+### Fork (Hard and Soft)
+https://masterthecrypto.com/ethereum-hard-forks-guide-ethereum-classic-etherzero-metropolis/
