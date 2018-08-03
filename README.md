@@ -30,7 +30,7 @@ https://www.quora.com/What-is-the-difference-between-smart-contracts-and-dapps
 
 These wallets have been verified to support Ethereum ERC20 tokens:
 
-MyEtherWallet (Online and local browser) - https://www.myetherwallet.com/. Use Node.js crypto module to generate keys on local machine.
+MyEtherWallet (MEW, Online and local browser) - https://www.myetherwallet.com/. Use Node.js crypto module to generate keys on local machine. The online part is for sending transaction to ethereum nodes through their public infrastructure.
 MetaMask (Firefox and Chrome browser extension) - https://metamask.io/. Stores private keys in the browser local data store.
 MIST (Desktop) - https://ethereum.stackexchange.com/questions/2690/what-is-the-relationship-between-mist-and-ethereum-wallet
 Parity (Desktop) 
