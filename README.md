@@ -86,7 +86,6 @@ IDE: https://truffleframework.com/
 
 ### Storage of contract state variable
 https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
-Client database - https://ethereum.stackexchange.com/questions/824/which-databases-do-the-ethereum-clients-use-and-why
 https://github.com/tpmccallum/ethereum_database_research_and_testing/blob/master/leveldb/leveldb.md
 
 
