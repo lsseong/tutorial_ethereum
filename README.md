@@ -90,6 +90,8 @@ https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
 ### The Yellow Paper
 https://ethereum.github.io/yellowpaper/paper.pdf
 
+Diagrams: https://takenobu-hs.github.io/downloads/ethereum_evm_illustrated.pdf
+
 ### Security
 https://www.ledger.fr/2016/08/08/how-to-properly-secure-cryptocurrencies-exchanges/
 
