@@ -75,6 +75,9 @@ Modified Merkle Patricia Trie (used by Ethereum)
 
 https://ethereum.stackexchange.com/questions/268/ethereum-block-architecture/6413#6413
 
+### Merkle Proof
+https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/
+
 ### Solidy - the programming language to code smart contract
 https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html
 IDE: https://truffleframework.com/
