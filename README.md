@@ -46,9 +46,11 @@ These wallets have been verified to support Ethereum ERC20 tokens:
 
 More here https://tokenmarket.net/what-is/how-to-participate-ethereum-token-crowdsale/
 
-
 ### Transaction Lifecycle
 https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e
+
+### Nonce
+https://medium.com/kinblog/making-sense-of-ethereum-nonce-sense-3858d5588c64
 
 ### Recursive Length Prefix (RLP) Encoding/Decoding
 https://medium.com/coinmonks/data-structure-in-ethereum-episode-1-recursive-length-prefix-rlp-encoding-decoding-d1016832f919
