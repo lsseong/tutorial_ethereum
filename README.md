@@ -58,7 +58,7 @@ https://medium.com/coinmonks/data-structure-in-ethereum-episode-1-recursive-leng
 ### Trie - data structure to hold transaction and hashing
 
 Radix - a tree structure to lookup value by path
-Patricia - a radix tree with 2 child nodes
+Patricia - a radix tree with 2 child nodes. "Practical Algorithm To Retrieve Information Coded In Alphanumeric" (PATRICIA) 
 Merkle - a tree structure where node value is a hash of child nodes
 Patricia - a mixture of radix and merkle tries (used in Etherium)
 
