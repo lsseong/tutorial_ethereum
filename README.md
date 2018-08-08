@@ -13,21 +13,26 @@ Ethereum-Wallet = a wallet interface (browser functionality removed for safety)
 
 https://bitfalls.com/2018/02/12/explaining-ethereum-tools-geth-mist/
 
-Parity is another implementation of an Ethereum node: https://parity.io/
+Parity is another implementation of an Ethereum node using Rust language: https://parity.io/
 
 ### QuikNode
 Installing a full node (Geth or Parity) takes days and plenty space to download the full chain and a bit of processing (cpu) power to keep it in sync with the global network and allow it to do its duties.
 
-There is, however, a solution: QuikNode. One can go to QuikNode.io, spin up a private Ethereum node, and use it with MEW — all in under 10 minutes (more like 5). Basically it is a private node hosted on their infrastructure.
+There is, however, a solution: QuikNode. One can go to QuikNode.io, spin up a private Ethereum node (hosted on their infrastructure), and use it with MyEtherWallet (MEW), all in under 10 minutes (more like 5). 
 
 https://quiknode.io/faq
 
 
 ### Create an account and the keystore file
+There are two account types:
+ - Normal account (external own account) 
+ - Contract account
+
+Normal account (or wallet) is created with the generation of private/public keys. The public key is used to generate address. Private key is secured using a passphrase that user provides, and is stored in a keystore file:
 https://medium.com/@julien.maffre/what-is-an-ethereum-keystore-file-86c8c5917b97
 
-### Wallet - a smart contract, DApp
 
+### Wallet - a smart contract, DApp
 dApp is a blockchain enabled website or portal, and smart contract connects dApp with blockchain
 
 With official Ethereum Wallet (EW) you are running a full node, downloading blockchain and syncing it. With myetherwallet (MEW) there is no such need, it's just a wallet and interface to the blockchain.
@@ -55,7 +60,7 @@ https://medium.com/kinblog/making-sense-of-ethereum-nonce-sense-3858d5588c64
 ### Recursive Length Prefix (RLP) Encoding/Decoding
 https://medium.com/coinmonks/data-structure-in-ethereum-episode-1-recursive-length-prefix-rlp-encoding-decoding-d1016832f919
 
-### Trie - data structure to hold transaction and hashing
+### Trie - data structure (key/value table) to hold transaction and hashing
 
 Radix - a tree structure to lookup value by path
 Patricia - a radix tree with 2 child nodes. "Practical Algorithm To Retrieve Information Coded In Alphanumeric" (PATRICIA) 
